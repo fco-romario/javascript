@@ -1,0 +1,12 @@
+body {
+    font: normal 18px black;
+    background-color: rgb(88, 127, 255);
+}
+
+section {
+    background-color: white;
+    border-radius: 10px;
+    height: 400px;
+    width: 400px;
+    
+}
