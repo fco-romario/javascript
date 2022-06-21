@@ -1,6 +1,6 @@
 body {
-    font: normal 18px black;
-    background-color: rgb(88, 127, 255);
+    font: normal 15px Arial;
+    background-color: rgb(0, 110, 255);
 }
 
 header {
@@ -10,15 +10,18 @@ header {
 
 section {
     background-color: white;
-    border-radius: 10px;
-    padding: 10px;
     width: 500px;
+    border-radius: 10px;
     margin: auto;
-    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.568);
+    padding: 8px;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.548);
+}
+
+#res {
+    padding: 15px;
 }
 
 footer {
-    color: white;
     text-align: center;
     font-style: italic;
 }
